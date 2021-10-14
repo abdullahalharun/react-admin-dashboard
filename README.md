@@ -1,4 +1,4 @@
-# Getting Started with React Admin Dashboar
+# Getting Started with React Admin Dashboard
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
